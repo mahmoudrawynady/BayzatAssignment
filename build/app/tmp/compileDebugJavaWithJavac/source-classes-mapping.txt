@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/pokedex_desafio_ioasys_flutter/BuildConfig.java
+ com.example.pokedex_desafio_ioasys_flutter.BuildConfig

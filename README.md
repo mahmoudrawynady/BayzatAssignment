@@ -2,9 +2,9 @@
 
 # Pokedex
 
-Welcome to the **Pokedex** assignment!
+Welcome to the **Pokedex**
 
-This app for the pokemons assignment App developed by Eng **Mahmoud Rawy**.
+This app for the pokemons Eng **Mahmoud Rawy**.
 
 ## Build Instructions
 - **The Flutter version used is the latest flutter version:** Flutter **3.0.4**
